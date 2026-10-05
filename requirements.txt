@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic-ai-slim[openai]
+portkey-ai
+python-dotenv
